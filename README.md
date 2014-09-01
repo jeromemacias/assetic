@@ -2,7 +2,7 @@
 
 Assetic is an asset management library for PHP.
 
-``` php
+```php
 <?php
 
 use Assetic\Asset\AssetCollection;
